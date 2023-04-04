@@ -4,7 +4,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=22272e&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoEduardoFM&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=22272e" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoFM&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=22272e&layout=compact" />
 </p>
 
