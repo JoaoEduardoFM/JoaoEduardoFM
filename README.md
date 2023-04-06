@@ -14,6 +14,7 @@ Atualmente, estou em busca de novos desafios em minha carreira de desenvolvedor 
 Nos últimos projetos que participei, tive a oportunidade de trabalhar com Java, SQL, Procedures, FXML e Spring Boot, atuando na criação de APIs e manutenção de sistemas. Além disso, estou sempre buscando aprender novas linguagens e frameworks para acompanhar o mercado em constante evolução. Atualmente, estou estudando banco de dados e Java.
 
 ![header](https://user-images.githubusercontent.com/90796699/228732700-385f1245-70e2-4afa-8fcb-3838c43cc3d1.png)
+![header](https://user-images.githubusercontent.com/90796699/230344515-83946639-7da8-4941-a7de-be3c76de43f2.png)
 ![header](https://user-images.githubusercontent.com/90796699/228732963-6bafac5b-bb12-4e8d-b72a-47b3798f7bc3.png)
 ![header](https://user-images.githubusercontent.com/90796699/230345386-93e65864-700e-4500-9a7f-82c0c96498ca.png)
-![header](https://user-images.githubusercontent.com/90796699/230344515-83946639-7da8-4941-a7de-be3c76de43f2.png)
+
