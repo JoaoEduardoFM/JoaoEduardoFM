@@ -15,6 +15,5 @@ Nos últimos projetos que participei, tive a oportunidade de trabalhar com Java,
 
 ![header](https://user-images.githubusercontent.com/90796699/228732700-385f1245-70e2-4afa-8fcb-3838c43cc3d1.png)
 ![header](https://user-images.githubusercontent.com/90796699/228732963-6bafac5b-bb12-4e8d-b72a-47b3798f7bc3.png)
-![header](https://user-images.githubusercontent.com/90796699/230345386-93e65864-700e-4500-9a7f-82c0c96498ca.png)
 ![header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![header](https://user-images.githubusercontent.com/90796699/230344515-83946639-7da8-4941-a7de-be3c76de43f2.png)
