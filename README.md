@@ -4,8 +4,6 @@
 ## Tecnologias que eu uso no meu dia
 
 ![JoaoEduardoFM GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoFM&show_icons=true&theme=dracula&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoFM&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=22272e&layout=compact" />
-</p>
 
 Gostaria de me apresentar como um desenvolvedor comprometido com as melhores práticas e padrões de desenvolvimento de software. Minha experiência em linguagens de programação como Java, SQL e frameworks como Spring, me permite desenvolver soluções eficazes e escaláveis.
 
