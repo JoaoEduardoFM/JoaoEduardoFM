@@ -3,8 +3,6 @@
 
 ## Tecnologias que eu uso no meu dia
 
-![JoaoEduardoFM GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoFM&show_icons=true&theme=dracula&count_private=true)
-
 Gostaria de me apresentar como um desenvolvedor comprometido com as melhores práticas e padrões de desenvolvimento de software. Minha experiência em linguagens de programação como Java, SQL e frameworks como Spring, me permite desenvolver soluções eficazes e escaláveis.
 
 Atualmente, estou em busca de novos desafios em minha carreira de desenvolvedor e decidi utilizar o GitHub como uma plataforma para compartilhar meus projetos e habilidades. Tenho experiência em trabalhar em equipes ágeis utilizando a metodologia Scrum, o que me permite colaborar de forma eficaz em projetos colaborativos.
