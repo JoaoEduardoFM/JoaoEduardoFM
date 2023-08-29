@@ -5,7 +5,7 @@
 
 Gostaria de me apresentar como um desenvolvedor comprometido com as melhores práticas e padrões de desenvolvimento de software. Minha experiência em linguagens de programação como Java, SQL e frameworks como Spring, me permite desenvolver soluções eficazes e escaláveis.
 
-Atualmente, estou em busca de novos desafios em minha carreira de desenvolvedor e decidi utilizar o GitHub como uma plataforma para compartilhar meus projetos e habilidades. Tenho experiência em trabalhar em equipes ágeis utilizando a metodologia Scrum, o que me permite colaborar de forma eficaz em projetos colaborativos.
+Em minha carreira de desenvolvedor e decidi utilizar o GitHub como uma plataforma para compartilhar meus projetos e habilidades. Tenho experiência em trabalhar em equipes ágeis utilizando a metodologia Scrum, o que me permite colaborar de forma eficaz em projetos colaborativos.
 
 Nos últimos projetos que participei, tive a oportunidade de trabalhar com Java, SQL, Procedures, FXML e Spring Boot, atuando na criação de APIs e manutenção de sistemas. Além disso, estou sempre buscando aprender novas linguagens e frameworks para acompanhar o mercado em constante evolução. Atualmente, estou estudando banco de dados e Java.
 
