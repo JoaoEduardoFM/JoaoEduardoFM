@@ -15,4 +15,4 @@ Nos últimos projetos que participei, tive a oportunidade de trabalhar com Java,
 ![header](https://user-images.githubusercontent.com/90796699/230345386-93e65864-700e-4500-9a7f-82c0c96498ca.png)
 ![image](https://github.com/JoaoEduardoFM/JoaoEduardoFM/assets/90796699/dc6cac94-7ae3-4154-92dd-3525f6826d1c)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={JoaoEduardoFM}&theme=blue-green
+[![image](https://github.com/JoaoEduardoFM/JoaoEduardoFM/assets/90796699/f4bef5f2-ed92-494c-b4cd-c66e9f0c60a3)](https://github-readme-stats.vercel.app/api/top-langs/?username={JoaoEduardoFM}&theme=blue-green)
