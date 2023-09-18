@@ -14,5 +14,3 @@ Nos últimos projetos que participei, tive a oportunidade de trabalhar com Java,
 ![header](https://user-images.githubusercontent.com/90796699/228732963-6bafac5b-bb12-4e8d-b72a-47b3798f7bc3.png)
 ![header](https://user-images.githubusercontent.com/90796699/230345386-93e65864-700e-4500-9a7f-82c0c96498ca.png)
 ![image](https://github.com/JoaoEduardoFM/JoaoEduardoFM/assets/90796699/dc6cac94-7ae3-4154-92dd-3525f6826d1c)
-
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoFM&show_icons=true&theme=dracula&count_private=true)
